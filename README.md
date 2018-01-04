@@ -28,6 +28,13 @@ This can serve as a Security or Privacy application to hide any drive containing
 7- Press convert and you are done.
 ```
 If you are stuck anywhere or need any help you can ask me.
+## Release
+
+[Download HideIt.exe](/Release/HideIt.exe?raw=true) 
+Password is " PASSWORD "
+## Screenshot
+
+![Hide-it.exe](/Release/hdeit-scrnshot.png?raw=true "Hide-it Screenshot")
 
 ## Built With
 
